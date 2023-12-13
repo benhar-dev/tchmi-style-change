@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# TcXaeShell Solution File, Format Version 11.00
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FE7A1B72-C5B7-4D7C-BB7D-76384D4DE8E1}") = "demo-change-toggle-color", "demo-change-toggle-color\demo-change-toggle-color.hmiproj", "{AA139F51-89FA-49EF-847B-D0CB6FE79B14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|TwinCAT HMI = Debug|TwinCAT HMI
+		Release|TwinCAT HMI = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA139F51-89FA-49EF-847B-D0CB6FE79B14}.Debug|TwinCAT HMI.ActiveCfg = Debug|TwinCAT HMI
+		{AA139F51-89FA-49EF-847B-D0CB6FE79B14}.Debug|TwinCAT HMI.Build.0 = Debug|TwinCAT HMI
+		{AA139F51-89FA-49EF-847B-D0CB6FE79B14}.Release|TwinCAT HMI.ActiveCfg = Release|TwinCAT HMI
+		{AA139F51-89FA-49EF-847B-D0CB6FE79B14}.Release|TwinCAT HMI.Build.0 = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF7446DB-B298-4232-ADC2-72557CE4666B}
+	EndGlobalSection
+EndGlobal
